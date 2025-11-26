@@ -1,0 +1,256 @@
+[{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4ae"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "cardiovascular system"
+    },
+    {
+      "language": "ES",
+      "muscle": "sistema cardiovascular"
+    }
+  ],
+  "muscle": "cardiovascular system"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4b2"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "glutes"
+    },
+    {
+      "language": "ES",
+      "muscle": "glúteos"
+    }
+  ],
+  "muscle": "glutes"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4b5"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "abs"
+    },
+    {
+      "language": "ES",
+      "muscle": "abdominales"
+    }
+  ],
+  "muscle": "abs"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4b4"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "quads"
+    },
+    {
+      "language": "ES",
+      "muscle": "cuádriceps"
+    }
+  ],
+  "muscle": "quads"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4ab"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "traps"
+    },
+    {
+      "language": "ES",
+      "muscle": "trapecios"
+    }
+  ],
+  "muscle": "traps"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4b0"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "adductors"
+    },
+    {
+      "language": "ES",
+      "muscle": "aductores"
+    }
+  ],
+  "muscle": "adductors"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4a9"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "shoulders"
+    },
+    {
+      "language": "ES",
+      "muscle": "hombros"
+    }
+  ],
+  "muscle": "shoulders"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4af"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "triceps"
+    },
+    {
+      "language": "ES",
+      "muscle": "tríceps"
+    }
+  ],
+  "muscle": "triceps"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4b3"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "calves"
+    },
+    {
+      "language": "ES",
+      "muscle": "gemelos"
+    }
+  ],
+  "muscle": "calves"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4a6"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "chest"
+    },
+    {
+      "language": "ES",
+      "muscle": "pecho"
+    }
+  ],
+  "muscle": "chest"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4aa"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "abductors"
+    },
+    {
+      "language": "ES",
+      "muscle": "abductores"
+    }
+  ],
+  "muscle": "abductors"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4ac"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "forearms"
+    },
+    {
+      "language": "ES",
+      "muscle": "antebrazos"
+    }
+  ],
+  "muscle": "forearms"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4a8"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "core"
+    },
+    {
+      "language": "ES",
+      "muscle": "núcleo"
+    }
+  ],
+  "muscle": "core"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4a7"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "back"
+    },
+    {
+      "language": "ES",
+      "muscle": "espalda"
+    }
+  ],
+  "muscle": "back"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4ad"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "biceps"
+    },
+    {
+      "language": "ES",
+      "muscle": "bíceps"
+    }
+  ],
+  "muscle": "biceps"
+},
+{
+  "_id": {
+    "$oid": "69001c5a9806651d2dfbd4b1"
+  },
+  "translations": [
+    {
+      "language": "EN",
+      "muscle": "hamstrings"
+    },
+    {
+      "language": "ES",
+      "muscle": "isquiotibiales"
+    }
+  ],
+  "muscle": "hamstrings"
+}]
